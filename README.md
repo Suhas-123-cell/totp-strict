@@ -179,4 +179,3 @@ When opening a pull request, add a test case that covers the change and make sur
 ## License
 
 MIT — see [LICENSE](LICENSE).
-# totp-strict
